@@ -1,0 +1,39 @@
+/* add your CSS here */
+.container {
+    border: 1px solid lightgrey;
+    box-shadow: 10px 10px lightgrey;
+    width: 338px;
+    height: 750px;
+}
+
+.container img {
+    margin: 16px;
+}
+
+h3 {
+    margin: 16px;
+    font-size: 14pt;
+    font-family: serif;
+}
+
+.innerbox {
+    border: 1px solid lightgrey;
+    width: 300px;
+    height: 390px;
+    margin-left: 16px;
+}
+
+p {
+    margin: 15px;
+    font-size: 11pt;
+}
+
+#italicstyle {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding: 15px;
+    font-size: 11pt;
+}
